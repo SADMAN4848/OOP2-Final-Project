@@ -1,0 +1,23 @@
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2 Project [H].csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.Form1.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.ManagerForm.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.Properties.Resources.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2 Project [H].csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2 Project [H].csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\bin\Debug\OOP2 Project [H].exe.config
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\bin\Debug\OOP2 Project [H].exe
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\bin\Debug\OOP2 Project [H].pdb
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2 Project [H].exe
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2 Project [H].pdb
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.EmployeeForm.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.ManagerDashboard.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.UpdateManager.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.AddEmployee.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.UpdateSalary.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.SearchEmployee.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.RemoveEmployee.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.AddOrder.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.EmployeeDashboard.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.OrderPayment.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.UpdatePhone.resources
+C:\Users\Asus\Desktop\OOP2 Project\OOP2 Project\OOP2 Project [H]\OOP2 Project [H]\obj\Debug\OOP2_Project__H_.ChangeEmployeePassword.resources
