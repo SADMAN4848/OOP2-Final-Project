@@ -78,14 +78,14 @@ namespace OOP2_Project__H_
             this.pictureBox1.Location = new System.Drawing.Point(27, 50);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(101, 84);
+            this.pictureBox1.Size = new System.Drawing.Size(91, 73);
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(292, 349);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(139, 28);
             this.button3.TabIndex = 4;

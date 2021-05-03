@@ -79,5 +79,11 @@ namespace OOP2_Project__H_
             var list = GetOrder();
             dtAllOrders.DataSource = list;
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            new Form1().Show();
+        }
     }
 }

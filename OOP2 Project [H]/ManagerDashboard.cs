@@ -19,8 +19,6 @@ namespace OOP2_Project__H_
             InitializeComponent();
         }
 
-        
-
         private void button1_Click(object sender, EventArgs e)
         {
             
@@ -86,6 +84,10 @@ namespace OOP2_Project__H_
             dtEmpAllDisplay.DataSource = list;
         }
 
-        
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            new Form1().Show();
+        }
     }
 }

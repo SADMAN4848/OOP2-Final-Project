@@ -20,6 +20,7 @@ namespace OOP2_Project__H_
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
             string EmployeeID = tbEmpIDlogin.Text;
             string EmployeePassword = tbEmpPasswordlogin.Text;
             var conn = Database.COnnectDB();
@@ -29,6 +30,7 @@ namespace OOP2_Project__H_
             SqlDataReader reader = cmd.ExecuteReader();
             if (reader.Read())
             {
+                this.Hide();
                 new EmployeeDashboard().Show();
             }
             else
@@ -36,6 +38,7 @@ namespace OOP2_Project__H_
                 MessageBox.Show("Invalid User");
             }
             conn.Close();
+            
         }
         protected override void OnFormClosing(FormClosingEventArgs e)
         {
